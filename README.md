@@ -5,3 +5,5 @@
 •	Tracked year-wise attrition rate, revealing high-risk segments and helping HR strategize retention policies more effectively.
 
 •	Enabled management to identify patterns in voluntary exits and role-specific churn, improving workforce planning and reducing attrition risk by 15%.
+
+• Utilized DAX, slicers, and KPI cards for dynamic filtering and real-time insights.
